@@ -1,17 +1,51 @@
-## <div align="center">Olá, sou Leonardo Caldas Palma 👋</div>
+<h1 align="center">Olá! Eu sou Leonardo Caldas Palma 👨‍💻</h1>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-caldas-palma/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonardocaldaspalma@gmail.com)
+<p align="center">
+  🚀 Estudante de <strong>Engenharia de Computação</strong> na UEFS<br/>
+</p>
+
+---
+
+## 🧰 Tecnologias que utilizo
+
+<div align="center">
+
+<!-- Linguagens -->
+
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
+</div>
+
+---
 <!--
-**lleopalma/lleopalma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💼 Projetos em Destaque
 
-Here are some ideas to get you started:
+[![Lista de Contatos](https://github-readme-stats.vercel.app/api/pin/?username=erickmjr&repo=lista_de_contatos&theme=dark)](https://github.com/erickmjr/lista_de_contatos)
+[![Lumos Landing Page](https://github-readme-stats.vercel.app/api/pin/?username=erickmjr&repo=Lumos-LandingPage&theme=dark)](https://github.com/erickmjr/Lumos-LandingPage)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+> Você vai encontrar por aqui *landing pages*, **interfaces interativas**, e protótipos pensados com foco em **responsividade** e *acessibilidade*!
 -->
+
+## 🎓 Formação
+
+- 💻 *Engenharia de Computação* – UEFS *(em andamento)*
+
+---
+
+## 🌎 Idiomas
+
+- 🗣️ *Português:* Nativo
+- 🗣️ *Inglês:* Avançado
+
+---
+
+## 📬 Bora trocar uma ideia?
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-leonardocaldaspalma@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonardocaldaspalma@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Leonardo%20Caldas%20Palma-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/leonardo-caldas-palma/)
+[![GitHub](https://img.shields.io/badge/GitHub-lleopalma-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lleopalma)
+
+</div>
