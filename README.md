@@ -40,7 +40,7 @@
 
 ---
 
-## 📬 Bora trocar uma ideia?
+## 📬 Entre em contato comigo!
 
 <div align="center">
 
