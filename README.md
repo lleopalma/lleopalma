@@ -36,7 +36,7 @@
 ## 🌎 Idiomas
 
 - 🗣️ *Português:* Nativo
-- 🗣️ *Inglês:* Avançado
+- 🗣️ *Inglês:* Intermediário avançado
 
 ---
 
